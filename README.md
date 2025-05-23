@@ -16,3 +16,7 @@ This project provides a minimal setup for a Node.js server.
 
    ```bash
    node index.js
+
+### 🔗 Frontend Repository
+
+👉 [Fronend GitHub Repo](https://github.com/harikrishnan2193/blogging_website_frontend)
